@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "puffin": {
+      "type": "http",
+      "url": "https://api.justpuffin.tech/mcp"
+    }
+  }
+}

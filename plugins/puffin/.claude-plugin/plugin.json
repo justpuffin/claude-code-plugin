@@ -1,0 +1,26 @@
+{
+  "name": "puffin",
+  "version": "0.1.0",
+  "description": "Give Claude Code a Puffin agent identity: email, Slack, Discord, Telegram, texts, contacts, calendar and tasks as tools, with every outgoing message waiting for your approval. /puffin:phone sets up Claude Code from your phone.",
+  "author": {
+    "name": "Puffin",
+    "url": "https://www.justpuffin.tech"
+  },
+  "homepage": "https://www.justpuffin.tech/docs",
+  "repository": "https://github.com/justpuffin/claude-code-plugin",
+  "license": "MIT",
+  "keywords": [
+    "puffin",
+    "agent",
+    "email",
+    "inbox",
+    "telegram",
+    "slack",
+    "discord",
+    "mcp",
+    "approvals"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://www.justpuffin.tech/privacy",
+  "termsOfServiceUrl": "https://www.justpuffin.tech/terms"
+}

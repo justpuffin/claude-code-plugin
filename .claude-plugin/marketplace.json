@@ -1,0 +1,18 @@
+{
+  "name": "puffin",
+  "owner": {
+    "name": "Puffin",
+    "url": "https://www.justpuffin.tech"
+  },
+  "metadata": {
+    "description": "Puffin for Claude Code: your agent's inbox, chats and calendar as tools, and Claude Code from your phone"
+  },
+  "plugins": [
+    {
+      "name": "puffin",
+      "source": "./plugins/puffin",
+      "description": "Puffin tools in Claude Code (email, chats, texts, contacts, calendar, tasks, with approvals) and /puffin:phone to run Claude Code from Telegram, Slack, Discord or email",
+      "category": "productivity"
+    }
+  ]
+}
