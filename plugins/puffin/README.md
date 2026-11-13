@@ -7,5 +7,3 @@ Puffin gives Claude Code its own agent identity: an email address, Slack, Discor
 **Setup:** after installing, the first Puffin tool call opens Puffin in your browser. Sign in, pick the agent, choose what Claude Code may do and click Allow. No API key is copied. Disconnect any time in Puffin under Developer tools, Connected apps.
 
 **From your phone:** run `/puffin:phone` to set up Claude Code from your phone. You message your agent from Telegram, Slack, Discord or email, and Claude Code works in your project on your machine, asking you in the same chat before each edit or command.
-
-Privacy: https://www.justpuffin.tech/privacy · Terms: https://www.justpuffin.tech/terms · Docs: https://www.justpuffin.tech/docs

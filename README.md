@@ -74,8 +74,6 @@ Agent: Fixed: the token check was inverted. All 42 tests pass.
 
 Inside Claude Code, run **`/puffin:phone`** to check the setup and get the next step. On the machine: `puffin claude status`, `puffin claude doctor`, `puffin claude logs`, `puffin claude stop`.
 
-Full guide: [Coding from your phone](https://www.justpuffin.tech/docs).
-
 ## What's in this repo
 
 ```
@@ -88,7 +86,7 @@ install.sh, install.ps1                the phone gateway installers
 scripts/validate.py                    checks the manifests (run by CI)
 ```
 
-The phone gateway itself is the `puffin claude` command in the [Puffin Python SDK](https://pypi.org/project/puffin-local/) (`puffin-local`), which the installers set up.
+The phone gateway itself is the `puffin claude` command in the Puffin Python SDK (`puffin-local`), which the installers set up.
 
 ## License
 
